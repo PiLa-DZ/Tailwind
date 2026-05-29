@@ -1,0 +1,25 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiLa-DZ/Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/PiLa-DZ/Tailwind/issues"
+  },
+  "homepage": "https://github.com/PiLa-DZ/Tailwind#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
