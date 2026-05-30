@@ -17,4 +17,8 @@ borfer borfer-0 borfer-2 borfer-4 borfer-8 // Border Width
 rounded-xl rounded-2xl // Border Radius
 border-slate-800 border-b-slate-800 // Border Color
 
+/* Sizing */
+"w-1/2" "min-w-1/2" "max-w-1/2" // Width
+h-100 min-h-100 max-h-100 // Height
+
 ```
